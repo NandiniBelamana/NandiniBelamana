@@ -1,11 +1,11 @@
 
-![gh-banner](https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif)
+![gh-banner]([https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif](https://camo.githubusercontent.com/4aa77ea32aa4d7be626e833b160f3d8923c133cd32c34fefbdc43c8abfcff710/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323730343431342f73637265656e73686f74732f373436363930332f6d656469612f62303861623537363331366264343538326665663138396634373163643965352e676966))
 
 
 
 ## Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-I'm Raghu Pammi from India, and I'm Frontend developer looking to leverage my passion for building engaging products and user experiences. Skilled in JavaScript,Tailwind CSS, Git, HTML & CSS. With excellent communication skills and always ready to learn new skill sets, I am also a great team player and a self-starter that likes to engage in a logical thinking approach to problem-solving.
+I'm Nandini Belamana from India, and I'm Frontend developer looking to leverage my passion for building engaging products and user experiences. Skilled in JavaScript,Tailwind CSS, Git, HTML & CSS. With excellent communication skills and always ready to learn new skill sets, I am also a great team player and a self-starter that likes to engage in a logical thinking approach to problem-solving.
  
 <div align="center">
 <a href=""> 
