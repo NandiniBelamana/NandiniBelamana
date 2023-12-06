@@ -11,13 +11,13 @@ I'm Nandini Belamana from India, and I'm Frontend developer looking to leverage 
 <a href=""> 
 <img src="https://img.shields.io/badge/check%20out%20my%20Portfolio-042549?style=for-the-badge&logo=CodersRank&logoColor=white" alt="portfolio" />
 </a>
-<a href="https://www.linkedin.com/in/pammi-raghu-5815992a3" target="_blank">
+<a href="https://www.linkedin.com/in/" target="_blank">
 <img src="https://img.shields.io/badge/visit%20my%20Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
 <a href="" target="_blank">
 <img src="https://img.shields.io/badge/read%20my%20blogs%20on%20Hashnode-blue?style=for-the-badge&logo=Hashnode&logoColor=white" alt="Hashnode" />
 </a>
-<a href="mailto:raghupammi00@gmail.com" target="_blank">
+<a href="mailto:nandu79939@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
 </a>
 </div>
@@ -47,16 +47,16 @@ I'm Nandini Belamana from India, and I'm Frontend developer looking to leverage 
 
 ### Activity Graph 📈
 <p align="center">
-	<img src="https://activity-graph.herokuapp.com/graph?username=RaghuPammi&theme=minimal"/>
+	<img src="https://activity-graph.herokuapp.com/graph?username=NandiniBelamana&theme=minimal"/>
 </p>
 
 ### Github Profile Summary Card 💳
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaghuPammi&theme=vue"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NandiniBelamana&theme=vue"/>
 </p>
 
 ### GitHub Stats 📟
 <p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=RaghuPammi&show_icons=true&theme=vue" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=RaghuPammi&theme=vue" />
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=NandiniBelamana&show_icons=true&theme=vue" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=NandiniBelamana&theme=vue" />
 </p>
